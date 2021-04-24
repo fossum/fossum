@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fossum
+- 👀 I’m interested in IoT, smart devices and that data's aggregation.
+- 🌱 I’m currently learning how to collaborate on third party projects.
+- 📫 How to reach me? Find me in my collaborations.
